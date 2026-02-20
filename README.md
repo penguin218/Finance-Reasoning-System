@@ -31,11 +31,11 @@
 
 总体视图：左侧为 Workflow，右侧为节点调用情况
 
-![LangGraph Studio 总览](<总体截图路径>)
+![LangGraph Studio 总览](<https://github.com/penguin218/Finance-Reasoning-System/blob/main/system_picture/workflow.png>)
 
 人在回路：展示摘要审批与回流搜索的交互
 
-![LangGraph Studio 人在回路](<人在回路截图路径>)
+![LangGraph Studio 人在回路](<https://github.com/penguin218/Finance-Reasoning-System/blob/main/system_picture/hitl.png>)
 
 ## 核心流程
 
