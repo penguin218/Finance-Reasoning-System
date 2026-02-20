@@ -33,7 +33,7 @@
 
 ![LangGraph Studio 总览](<https://github.com/penguin218/Finance-Reasoning-System/blob/main/system_picture/workflow.png>)
 
-人在回路：展示摘要审批与回流搜索的交互
+人在回路：右下角INTERRUPT展示摘要审批与回流搜索的交互
 
 ![LangGraph Studio 人在回路](<https://github.com/penguin218/Finance-Reasoning-System/blob/main/system_picture/hitl.png>)
 
